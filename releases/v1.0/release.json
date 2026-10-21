@@ -2,12 +2,13 @@
   "package": "com.aldeveloper.filemanager",
   "app": "File Manager",
   "versionName": "1.0",
-  "versionCode": 1,
+  "versionCode": 2,
   "minSdk": 24,
-  "targetSdk": 34,
+  "targetSdk": 36,
   "releasedAt": "2026-10-21",
+  "playTrack": "internal testing",
   "files": [
-    { "name": "app-release.apk", "type": "apk", "sizeBytes": 4102581, "sha256": "7a3d9ed6fa260896e034597e359b17a4f31f63ea735b8d340a02eda48de8c731" },
-    { "name": "app-release.aab", "type": "aab", "sizeBytes": 6784563, "sha256": "1ef03d80081385741da08b5e8b285fa5e1db7d4fe9709609fb410984226b3ec4" }
+    { "name": "app-release.apk", "type": "apk", "sizeBytes": 4102585, "sha256": "cdfeed898459905d7a25aaedfd7241e2b5b6b00c25d2ae164d4534e905943ba4" },
+    { "name": "app-release.aab", "type": "aab", "sizeBytes": 6783733, "sha256": "56ff9bd69dee31f41e9a7f4381373f415c3f16dd89079a33c9ba48b539aea91a" }
   ]
 }
